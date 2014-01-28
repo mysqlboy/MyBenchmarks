@@ -1,0 +1,10 @@
+yum -y install MariaDB-devel  \
+gcc \
+gcc-c++ \
+autoconf \
+automake \
+make \
+libtool \
+zlib \
+zlib-devel \
+openssl-devel
