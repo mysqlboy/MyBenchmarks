@@ -1,0 +1,73 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+Initializing random number generator from timer.
+
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+OLTP test statistics:
+    queries performed:
+        read:                            7396522
+        write:                           2113292
+        other:                           1056646
+        total:                           10566460
+    transactions:                        528323 (73.38 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 9509814 (1320.81 per sec.)
+    other operations:                    1056646 (146.76 per sec.)
+
+General statistics:
+    total time:                          7200.0097s
+    total number of events:              528323
+    total time taken by event execution: 28796.2872s
+    response time:
+         min:                                  9.80ms
+         avg:                                 54.51ms
+         max:                                285.87ms
+         approx.  95 percentile:              94.82ms
+
+Threads fairness:
+    events (avg/stddev):           132080.7500/127.64
+    execution time (avg/stddev):   7199.0718/0.01
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 6
+Initializing random number generator from timer.
+
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+OLTP test statistics:
+    queries performed:
+        read:                            9794470
+        write:                           2798420
+        other:                           1399210
+        total:                           13992100
+    transactions:                        699605 (97.17 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 12592890 (1749.00 per sec.)
+    other operations:                    1399210 (194.33 per sec.)
+
+General statistics:
+    total time:                          7200.0423s
+    total number of events:              699605
+    total time taken by event execution: 43195.5628s
+    response time:
+         min:                                  9.94ms
+         avg:                                 61.74ms
+         max:                                255.37ms
+         approx.  95 percentile:             108.42ms
+
+Threads fairness:
+    events (avg/stddev):           116600.8333/789.46
+    execution time (avg/stddev):   7199.2605/0.04
+
+Exiting because /tmp/running does not exist.

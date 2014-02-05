@@ -1,0 +1,46 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+Initializing random number generator from timer.
+
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+OLTP test statistics:
+    queries performed:
+        read:                            738612
+        write:                           211032
+        other:                           105516
+        total:                           1055160
+    transactions:                        52758  (7.33 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 949644 (131.88 per sec.)
+    other operations:                    105516 (14.65 per sec.)
+
+General statistics:
+    total time:                          7200.6632s
+    total number of events:              52758
+    total time taken by event execution: 28801.6379s
+    response time:
+         min:                                 15.38ms
+         avg:                                545.92ms
+         max:                               8584.49ms
+         approx.  95 percentile:            1588.92ms
+
+Threads fairness:
+    events (avg/stddev):           13189.5000/269.34
+    execution time (avg/stddev):   7200.4095/0.03
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 6
+Initializing random number generator from timer.
+
+Random number generator seed is 0 and will be ignored
+
+
+FATAL: pthread_create() for thread #2 failed. errno = 11 (Resource temporarily unavailable)

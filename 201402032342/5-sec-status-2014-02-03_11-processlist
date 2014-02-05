@@ -1,0 +1,1397 @@
+TS 1391470975.005414691 2014-02-03 23:42:55  23:42:55 up 5 days,  7:54,  4 users,  load average: 0.00, 0.00, 0.00
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13933	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13934	root	localhost	NULL	Sleep	NULL	NULL	NULL	0.000
+13935	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391470980.004545691 2014-02-03 23:43:00  23:43:00 up 5 days,  7:54,  3 users,  load average: 0.24, 0.05, 0.02
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13937	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391470985.005597094 2014-02-03 23:43:05  23:43:05 up 5 days,  7:55,  3 users,  load average: 0.46, 0.10, 0.03
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13940	root	localhost	NULL	Sleep	0		NULL	0.000
+13941	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391470990.005280995 2014-02-03 23:43:10  23:43:10 up 5 days,  7:55,  3 users,  load average: 0.66, 0.15, 0.05
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13943	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+13944	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391470995.005187590 2014-02-03 23:43:15  23:43:15 up 5 days,  7:55,  3 users,  load average: 0.85, 0.19, 0.06
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13946	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13947	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471000.006207492 2014-02-03 23:43:20  23:43:20 up 5 days,  7:55,  3 users,  load average: 1.02, 0.24, 0.08
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13948	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471005.004116484 2014-02-03 23:43:25  23:43:25 up 5 days,  7:55,  3 users,  load average: 1.18, 0.29, 0.09
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13953	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471010.006247956 2014-02-03 23:43:30  23:43:30 up 5 days,  7:55,  3 users,  load average: 1.41, 0.35, 0.11
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13956	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471015.011028340 2014-02-03 23:43:35  23:43:35 up 5 days,  7:55,  3 users,  load average: 1.53, 0.39, 0.13
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13957	root	localhost	NULL	Sleep	0		NULL	0.000
+13958	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13959	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471020.009505081 2014-02-03 23:43:40  23:43:40 up 5 days,  7:55,  3 users,  load average: 1.65, 0.43, 0.14
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13960	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+13961	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471025.006440612 2014-02-03 23:43:45  23:43:45 up 5 days,  7:55,  3 users,  load average: 1.76, 0.48, 0.16
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13963	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13965	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471030.009796729 2014-02-03 23:43:50  23:43:50 up 5 days,  7:55,  3 users,  load average: 1.86, 0.52, 0.18
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	Updating	UPDATE sbtest6 SET k=k+1 WHERE id=913625	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13966	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13968	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471035.013239770 2014-02-03 23:43:55  23:43:55 up 5 days,  7:55,  3 users,  load average: 1.95, 0.56, 0.19
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13971	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471040.013147412 2014-02-03 23:44:00  23:44:00 up 5 days,  7:55,  3 users,  load average: 2.11, 0.62, 0.21
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13972	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13973	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+TS 1391471045.005007185 2014-02-03 23:44:05  23:44:05 up 5 days,  7:56,  3 users,  load average: 2.18, 0.66, 0.22
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13975	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13976	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+13977	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471050.014827686 2014-02-03 23:44:10  23:44:10 up 5 days,  7:56,  3 users,  load average: 2.25, 0.69, 0.24
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13978	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13980	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471055.006740773 2014-02-03 23:44:15  23:44:15 up 5 days,  7:56,  3 users,  load average: 2.39, 0.75, 0.26
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13983	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471060.013432694 2014-02-03 23:44:20  23:44:20 up 5 days,  7:56,  3 users,  load average: 2.44, 0.79, 0.27
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13985	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471065.006772184 2014-02-03 23:44:25  23:44:25 up 5 days,  7:56,  3 users,  load average: 2.48, 0.82, 0.29
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Sleep	0		NULL	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13987	root	localhost	NULL	Sleep	0		NULL	0.000
+13988	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+13989	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471070.010215214 2014-02-03 23:44:30  23:44:30 up 5 days,  7:56,  3 users,  load average: 2.52, 0.86, 0.30
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	Writing to net	UPDATE sbtest2 SET c='94197539115-76902006141-03965771545-86124048293-68242465545-33870081211-47398732231-72335827486-01632370274-56926221483' WHERE id=589038	0.000
+13990	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13991	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+13992	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471075.009108128 2014-02-03 23:44:35  23:44:35 up 5 days,  7:56,  3 users,  load average: 2.56, 0.89, 0.32
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13993	root	localhost	NULL	Sleep	0		NULL	0.000
+13994	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471080.006685400 2014-02-03 23:44:40  23:44:40 up 5 days,  7:56,  3 users,  load average: 2.60, 0.93, 0.33
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13997	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+13998	root	localhost	NULL	Query	0	Sending data	SHOW GLOBAL STATUS	0.000
+TS 1391471085.005864150 2014-02-03 23:44:45  23:44:45 up 5 days,  7:56,  3 users,  load average: 2.63, 0.96, 0.35
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14000	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14001	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471090.009680767 2014-02-03 23:44:50  23:44:50 up 5 days,  7:56,  3 users,  load average: 2.74, 1.01, 0.36
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14002	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14003	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14004	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471095.004362584 2014-02-03 23:44:55  23:44:55 up 5 days,  7:56,  3 users,  load average: 2.76, 1.05, 0.38
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14005	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471100.006593604 2014-02-03 23:45:00  23:45:00 up 5 days,  7:56,  3 users,  load average: 2.78, 1.08, 0.39
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14008	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14009	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471105.006456188 2014-02-03 23:45:05  23:45:05 up 5 days,  7:57,  3 users,  load average: 2.80, 1.11, 0.41
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14011	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14012	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14013	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471110.006171365 2014-02-03 23:45:10  23:45:10 up 5 days,  7:57,  3 users,  load average: 2.81, 1.14, 0.42
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14014	root	localhost	NULL	Query	0	executing	SHOW GLOBAL STATUS	0.000
+14016	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471115.007558701 2014-02-03 23:45:15  23:45:15 up 5 days,  7:57,  3 users,  load average: 2.83, 1.17, 0.43
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14017	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14018	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471120.008181844 2014-02-03 23:45:20  23:45:20 up 5 days,  7:57,  3 users,  load average: 2.84, 1.20, 0.45
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	SELECT c FROM sbtest2 WHERE id BETWEEN 519151 AND 519151+99 ORDER BY c	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14021	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14022	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471125.010911596 2014-02-03 23:45:25  23:45:25 up 5 days,  7:57,  3 users,  load average: 2.93, 1.25, 0.47
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14024	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14025	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471130.007395196 2014-02-03 23:45:30  23:45:30 up 5 days,  7:57,  3 users,  load average: 2.94, 1.28, 0.48
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14026	root	localhost	NULL	Sleep	0		NULL	0.000
+14028	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471135.007261020 2014-02-03 23:45:35  23:45:35 up 5 days,  7:57,  3 users,  load average: 2.94, 1.31, 0.49
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14029	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14030	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471140.016443859 2014-02-03 23:45:40  23:45:40 up 5 days,  7:57,  3 users,  load average: 2.95, 1.33, 0.51
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	Sorting result	SELECT DISTINCT c FROM sbtest2 WHERE id BETWEEN 454901 AND 454901+99 ORDER BY c	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14032	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14034	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471145.010889783 2014-02-03 23:45:45  23:45:45 up 5 days,  7:57,  3 users,  load average: 3.03, 1.38, 0.52
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14035	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471150.005072508 2014-02-03 23:45:50  23:45:50 up 5 days,  7:57,  3 users,  load average: 3.03, 1.40, 0.54
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14038	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471155.006510629 2014-02-03 23:45:55  23:45:55 up 5 days,  7:57,  3 users,  load average: 3.11, 1.45, 0.56
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14042	root	localhost	NULL	Sleep	0		NULL	0.000
+14043	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471160.006895709 2014-02-03 23:46:00  23:46:00 up 5 days,  7:57,  3 users,  load average: 3.18, 1.49, 0.57
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14046	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471165.005979287 2014-02-03 23:46:05  23:46:05 up 5 days,  7:58,  3 users,  load average: 3.16, 1.51, 0.59
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14049	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471170.011707157 2014-02-03 23:46:10  23:46:10 up 5 days,  7:58,  3 users,  load average: 3.15, 1.54, 0.60
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Sleep	0		NULL	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14050	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14051	root	localhost	NULL	Query	0	NULL	select @@version_comment limit 1	0.000
+14052	root	localhost	NULL	Connect	NULL	login	NULL	0.000
+TS 1391471175.013978303 2014-02-03 23:46:15  23:46:15 up 5 days,  7:58,  3 users,  load average: 3.14, 1.56, 0.61
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14053	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14054	root	localhost	NULL	Sleep	0		NULL	0.000
+14055	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471180.006078941 2014-02-03 23:46:20  23:46:20 up 5 days,  7:58,  3 users,  load average: 3.21, 1.60, 0.63
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14056	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14058	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471185.005675253 2014-02-03 23:46:25  23:46:25 up 5 days,  7:58,  3 users,  load average: 3.19, 1.62, 0.64
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14060	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471190.010593854 2014-02-03 23:46:30  23:46:30 up 5 days,  7:58,  3 users,  load average: 3.17, 1.65, 0.65
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14062	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14063	root	localhost	NULL	Sleep	0		NULL	0.000
+14064	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471195.016906710 2014-02-03 23:46:35  23:46:35 up 5 days,  7:58,  3 users,  load average: 3.16, 1.67, 0.67
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14065	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471200.009944220 2014-02-03 23:46:40  23:46:40 up 5 days,  7:58,  3 users,  load average: 3.15, 1.69, 0.68
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14068	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14069	root	localhost	NULL	Sleep	0		NULL	0.000
+14070	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471205.009147476 2014-02-03 23:46:45  23:46:45 up 5 days,  7:58,  3 users,  load average: 3.13, 1.71, 0.69
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14073	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471210.012056387 2014-02-03 23:46:50  23:46:50 up 5 days,  7:58,  3 users,  load average: 3.12, 1.73, 0.70
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14074	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14075	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14076	root	localhost	NULL	Sleep	0	NULL	NULL	0.000
+TS 1391471215.007748426 2014-02-03 23:46:55  23:46:55 up 5 days,  7:58,  3 users,  load average: 3.11, 1.75, 0.72
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14077	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14078	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471220.010829268 2014-02-03 23:47:00  23:47:00 up 5 days,  7:58,  3 users,  load average: 3.18, 1.79, 0.73
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	statistics	SELECT c FROM sbtest4 WHERE id BETWEEN 194635 AND 194635+99	0.000
+14081	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14082	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471225.010956427 2014-02-03 23:47:05  23:47:05 up 5 days,  7:59,  3 users,  load average: 3.17, 1.81, 0.75
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14084	root	localhost	NULL	Query	0	Sending data	SHOW GLOBAL STATUS	0.000
+14085	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471230.011079496 2014-02-03 23:47:10  23:47:10 up 5 days,  7:59,  3 users,  load average: 3.23, 1.85, 0.76
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14086	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14087	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471235.007654031 2014-02-03 23:47:15  23:47:15 up 5 days,  7:59,  3 users,  load average: 3.30, 1.88, 0.78
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14089	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14090	root	localhost	NULL	Sleep	0		NULL	0.000
+14091	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471240.004211819 2014-02-03 23:47:20  23:47:20 up 5 days,  7:59,  3 users,  load average: 3.35, 1.92, 0.80
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14092	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14093	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471245.006794893 2014-02-03 23:47:25  23:47:25 up 5 days,  7:59,  3 users,  load average: 3.32, 1.94, 0.81
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14095	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14096	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471250.006524292 2014-02-03 23:47:30  23:47:30 up 5 days,  7:59,  3 users,  load average: 3.38, 1.97, 0.83
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14098	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14099	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471255.013827295 2014-02-03 23:47:35  23:47:35 up 5 days,  7:59,  3 users,  load average: 3.35, 1.99, 0.84
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14101	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471260.006662892 2014-02-03 23:47:40  23:47:40 up 5 days,  7:59,  3 users,  load average: 3.32, 2.00, 0.85
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Sleep	0		NULL	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14105	root	localhost	NULL	Query	0	init	select @@version_comment limit 1	0.000
+14106	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471265.009248161 2014-02-03 23:47:45  23:47:45 up 5 days,  7:59,  3 users,  load average: 3.29, 2.02, 0.86
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	Writing to net	DELETE FROM sbtest3 WHERE id=417150	0.000
+14107	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14108	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471270.005369815 2014-02-03 23:47:50  23:47:50 up 5 days,  7:59,  3 users,  load average: 3.27, 2.04, 0.87
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14112	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471275.007097049 2014-02-03 23:47:55  23:47:55 up 5 days,  7:59,  3 users,  load average: 3.25, 2.05, 0.88
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14113	root	localhost	NULL	Sleep	0		NULL	0.000
+14114	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14115	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471280.012477606 2014-02-03 23:48:00  23:48:00 up 5 days,  7:59,  3 users,  load average: 3.31, 2.08, 0.90
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14117	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14118	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471285.004159262 2014-02-03 23:48:05  23:48:05 up 5 days,  8:00,  3 users,  load average: 3.28, 2.10, 0.91
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14120	root	localhost	NULL	Sleep	0		NULL	0.000
+14121	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471290.008635978 2014-02-03 23:48:10  23:48:10 up 5 days,  8:00,  3 users,  load average: 3.26, 2.11, 0.92
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14122	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14124	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471295.012219783 2014-02-03 23:48:15  23:48:15 up 5 days,  8:00,  3 users,  load average: 3.24, 2.13, 0.93
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14125	root	localhost	NULL	Sleep	0		NULL	0.000
+14126	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471300.006557748 2014-02-03 23:48:20  23:48:20 up 5 days,  8:00,  3 users,  load average: 3.22, 2.14, 0.94
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14129	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14130	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471305.006389997 2014-02-03 23:48:25  23:48:25 up 5 days,  8:00,  3 users,  load average: 3.28, 2.17, 0.96
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14131	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14132	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471310.007994480 2014-02-03 23:48:30  23:48:30 up 5 days,  8:00,  3 users,  load average: 3.26, 2.19, 0.97
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Sleep	0		NULL	0.000
+14134	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14135	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471315.005448607 2014-02-03 23:48:35  23:48:35 up 5 days,  8:00,  3 users,  load average: 3.24, 2.20, 0.98
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14137	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14138	root	localhost	NULL	Sleep	0		NULL	0.000
+14139	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471320.005999108 2014-02-03 23:48:40  23:48:40 up 5 days,  8:00,  3 users,  load average: 3.22, 2.21, 0.99
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14140	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471325.008689233 2014-02-03 23:48:45  23:48:45 up 5 days,  8:00,  3 users,  load average: 3.28, 2.24, 1.01
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14143	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14145	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471330.016960670 2014-02-03 23:48:50  23:48:50 up 5 days,  8:00,  3 users,  load average: 3.26, 2.25, 1.02
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14146	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14147	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14148	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471335.005586852 2014-02-03 23:48:55  23:48:55 up 5 days,  8:00,  3 users,  load average: 3.32, 2.28, 1.03
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14150	root	localhost	NULL	Sleep	0		NULL	0.000
+14151	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471340.007491258 2014-02-03 23:49:00  23:49:00 up 5 days,  8:00,  3 users,  load average: 3.29, 2.30, 1.04
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14152	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14153	root	localhost	NULL	Sleep	0		NULL	0.000
+14154	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471345.006528079 2014-02-03 23:49:05  23:49:05 up 5 days,  8:01,  3 users,  load average: 3.35, 2.32, 1.06
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14156	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14157	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471350.007347534 2014-02-03 23:49:10  23:49:10 up 5 days,  8:01,  3 users,  load average: 3.32, 2.33, 1.07
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14158	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471355.007007687 2014-02-03 23:49:15  23:49:15 up 5 days,  8:01,  3 users,  load average: 3.29, 2.35, 1.08
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14162	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+14163	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471360.006606801 2014-02-03 23:49:20  23:49:20 up 5 days,  8:01,  3 users,  load average: 3.27, 2.36, 1.09
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14164	root	localhost	NULL	Sleep	0		NULL	0.000
+14165	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471365.012137127 2014-02-03 23:49:25  23:49:25 up 5 days,  8:01,  3 users,  load average: 3.25, 2.37, 1.10
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14168	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471370.006689129 2014-02-03 23:49:30  23:49:30 up 5 days,  8:01,  3 users,  load average: 3.23, 2.38, 1.11
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	Writing to net	SELECT DISTINCT c FROM sbtest4 WHERE id BETWEEN 929422 AND 929422+99 ORDER BY c	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14170	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471375.005924809 2014-02-03 23:49:35  23:49:35 up 5 days,  8:01,  3 users,  load average: 3.21, 2.39, 1.12
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14175	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471380.005643637 2014-02-03 23:49:40  23:49:40 up 5 days,  8:01,  3 users,  load average: 3.19, 2.40, 1.13
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14177	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14178	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+TS 1391471385.016471856 2014-02-03 23:49:45  23:49:45 up 5 days,  8:01,  3 users,  load average: 3.18, 2.41, 1.14
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14179	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14180	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471390.013399405 2014-02-03 23:49:50  23:49:50 up 5 days,  8:01,  3 users,  load average: 3.16, 2.42, 1.15
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14182	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471395.016862626 2014-02-03 23:49:55  23:49:55 up 5 days,  8:01,  3 users,  load average: 3.15, 2.43, 1.16
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14187	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471400.005628633 2014-02-03 23:50:00  23:50:00 up 5 days,  8:01,  3 users,  load average: 3.14, 2.43, 1.17
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14189	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14190	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471405.010378483 2014-02-03 23:50:05  23:50:05 up 5 days,  8:02,  3 users,  load average: 3.13, 2.44, 1.18
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14191	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14193	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471410.010585767 2014-02-03 23:50:10  23:50:10 up 5 days,  8:02,  3 users,  load average: 3.12, 2.45, 1.19
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14194	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471415.012250003 2014-02-03 23:50:15  23:50:15 up 5 days,  8:02,  3 users,  load average: 3.11, 2.46, 1.20
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14197	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14198	root	localhost	NULL	Sleep	0		NULL	0.000
+14199	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471420.010992696 2014-02-03 23:50:20  23:50:20 up 5 days,  8:02,  3 users,  load average: 3.10, 2.47, 1.20
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14200	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14201	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471425.007311188 2014-02-03 23:50:25  23:50:25 up 5 days,  8:02,  3 users,  load average: 3.09, 2.48, 1.21
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14203	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14204	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14205	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471430.005953309 2014-02-03 23:50:30  23:50:30 up 5 days,  8:02,  3 users,  load average: 3.08, 2.49, 1.22
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14206	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14207	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471435.008683933 2014-02-03 23:50:35  23:50:35 up 5 days,  8:02,  3 users,  load average: 3.08, 2.50, 1.23
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14211	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471440.006765470 2014-02-03 23:50:40  23:50:40 up 5 days,  8:02,  3 users,  load average: 3.15, 2.52, 1.25
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14213	root	localhost	NULL	Sleep	0		NULL	0.000
+14214	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471445.005799265 2014-02-03 23:50:45  23:50:45 up 5 days,  8:02,  3 users,  load average: 3.14, 2.53, 1.26
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	optimizing	SELECT DISTINCT c FROM sbtest4 WHERE id BETWEEN 231831 AND 231831+99 ORDER BY c	0.000
+14215	root	localhost	NULL	Sleep	0		NULL	0.000
+14216	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14217	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471450.011109773 2014-02-03 23:50:50  23:50:50 up 5 days,  8:02,  3 users,  load average: 3.13, 2.54, 1.27
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14218	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14220	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471455.006919785 2014-02-03 23:50:55  23:50:55 up 5 days,  8:02,  3 users,  load average: 3.12, 2.54, 1.28
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14222	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471460.006765698 2014-02-03 23:51:00  23:51:00 up 5 days,  8:02,  3 users,  load average: 3.11, 2.55, 1.28
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14226	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471465.007056032 2014-02-03 23:51:05  23:51:05 up 5 days,  8:03,  3 users,  load average: 3.10, 2.56, 1.29
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14227	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14228	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14229	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471470.017006484 2014-02-03 23:51:10  23:51:10 up 5 days,  8:03,  3 users,  load average: 3.17, 2.58, 1.31
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14230	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471475.006634114 2014-02-03 23:51:15  23:51:15 up 5 days,  8:03,  3 users,  load average: 3.16, 2.59, 1.32
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Sleep	0		NULL	0.000
+13932	root	localhost	sbtest	Query	0	optimizing	SELECT c FROM sbtest2 WHERE id=653258	0.000
+14234	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14235	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471480.007043845 2014-02-03 23:51:20  23:51:20 up 5 days,  8:03,  3 users,  load average: 3.22, 2.61, 1.33
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14236	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471485.008856051 2014-02-03 23:51:25  23:51:25 up 5 days,  8:03,  3 users,  load average: 3.20, 2.62, 1.34
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14239	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14240	root	localhost	NULL	Sleep	0		NULL	0.000
+14241	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471490.012172159 2014-02-03 23:51:30  23:51:30 up 5 days,  8:03,  3 users,  load average: 3.19, 2.62, 1.35
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14242	root	localhost	NULL	Query	0	executing	SHOW GLOBAL STATUS	0.000
+14244	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471495.006901013 2014-02-03 23:51:35  23:51:35 up 5 days,  8:03,  3 users,  load average: 3.17, 2.63, 1.36
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14245	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471500.011594205 2014-02-03 23:51:40  23:51:40 up 5 days,  8:03,  3 users,  load average: 3.16, 2.64, 1.37
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	updating	DELETE FROM sbtest5 WHERE id=994700	0.000
+14248	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14249	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14250	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471505.005884233 2014-02-03 23:51:45  23:51:45 up 5 days,  8:03,  3 users,  load average: 3.15, 2.64, 1.37
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14251	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471510.017754278 2014-02-03 23:51:50  23:51:50 up 5 days,  8:03,  3 users,  load average: 3.21, 2.66, 1.39
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14254	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471515.010930640 2014-02-03 23:51:55  23:51:55 up 5 days,  8:03,  3 users,  load average: 3.20, 2.67, 1.40
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14257	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471520.013283034 2014-02-03 23:52:00  23:52:00 up 5 days,  8:03,  3 users,  load average: 3.18, 2.67, 1.40
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	Copying to tmp table	SELECT DISTINCT c FROM sbtest4 WHERE id BETWEEN 694665 AND 694665+99 ORDER BY c	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14261	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471525.005924313 2014-02-03 23:52:05  23:52:05 up 5 days,  8:04,  3 users,  load average: 3.17, 2.68, 1.41
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14263	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14264	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14265	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471530.016563808 2014-02-03 23:52:10  23:52:10 up 5 days,  8:04,  3 users,  load average: 3.15, 2.68, 1.42
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14267	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14268	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471535.009070374 2014-02-03 23:52:15  23:52:15 up 5 days,  8:04,  3 users,  load average: 3.22, 2.71, 1.43
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14269	root	localhost	NULL	Sleep	0		NULL	0.000
+14270	root	localhost	NULL	Query	0	executing	SHOW GLOBAL STATUS	0.000
+14271	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471540.011168418 2014-02-03 23:52:20  23:52:20 up 5 days,  8:04,  3 users,  load average: 3.20, 2.71, 1.44
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14272	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14273	root	localhost	NULL	Sleep	0		NULL	0.000
+14274	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471545.006061803 2014-02-03 23:52:25  23:52:25 up 5 days,  8:04,  3 users,  load average: 3.19, 2.72, 1.45
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14275	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14276	root	localhost	NULL	Sleep	0		NULL	0.000
+14277	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471550.007061242 2014-02-03 23:52:30  23:52:30 up 5 days,  8:04,  3 users,  load average: 3.17, 2.72, 1.46
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14278	root	localhost	NULL	Sleep	0		NULL	0.000
+14279	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14280	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471555.007006726 2014-02-03 23:52:35  23:52:35 up 5 days,  8:04,  3 users,  load average: 3.16, 2.72, 1.47
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14281	root	localhost	NULL	Sleep	0		NULL	0.000
+14282	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14283	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471560.017117948 2014-02-03 23:52:40  23:52:40 up 5 days,  8:04,  3 users,  load average: 3.14, 2.73, 1.47
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14285	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471565.007039506 2014-02-03 23:52:45  23:52:45 up 5 days,  8:04,  3 users,  load average: 3.13, 2.73, 1.48
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14289	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471570.016448393 2014-02-03 23:52:50  23:52:50 up 5 days,  8:04,  3 users,  load average: 3.20, 2.75, 1.50
+Id	User	Host	db	Command	Time	State	Info	Progress
+13931	root	localhost	sbtest	Query	0	statistics	SELECT c FROM sbtest6 WHERE id=449605	0.000
+13932	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14290	root	localhost	NULL	Killed	0	NULL	NULL	0.000
+14291	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14292	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471575.016105708 2014-02-03 23:52:55  23:52:55 up 5 days,  8:04,  3 users,  load average: 3.18, 2.76, 1.50
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14297	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14298	root	localhost	NULL	Query	0	Sending data	SHOW GLOBAL STATUS	0.000
+TS 1391471580.005201914 2014-02-03 23:53:00  23:53:00 up 5 days,  8:04,  3 users,  load average: 3.25, 2.78, 1.52
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14300	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14301	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471585.006251150 2014-02-03 23:53:05  23:53:05 up 5 days,  8:05,  3 users,  load average: 3.31, 2.80, 1.53
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14303	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14304	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14305	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471590.011100258 2014-02-03 23:53:10  23:53:10 up 5 days,  8:05,  3 users,  load average: 3.37, 2.82, 1.54
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14307	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14308	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471595.007563475 2014-02-03 23:53:15  23:53:15 up 5 days,  8:05,  3 users,  load average: 3.34, 2.82, 1.55
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14309	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14310	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471600.006921425 2014-02-03 23:53:20  23:53:20 up 5 days,  8:05,  3 users,  load average: 3.31, 2.82, 1.56
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14312	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471605.010747601 2014-02-03 23:53:25  23:53:25 up 5 days,  8:05,  3 users,  load average: 3.44, 2.86, 1.58
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14316	root	localhost	NULL	Sleep	0		NULL	0.000
+14317	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471610.006358013 2014-02-03 23:53:30  23:53:30 up 5 days,  8:05,  3 users,  load average: 3.57, 2.89, 1.59
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14319	root	localhost	NULL	Sleep	0		NULL	0.000
+14320	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471615.020785915 2014-02-03 23:53:35  23:53:35 up 5 days,  8:05,  3 users,  load average: 3.52, 2.90, 1.60
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14321	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471620.024942501 2014-02-03 23:53:40  23:53:40 up 5 days,  8:05,  3 users,  load average: 3.48, 2.90, 1.61
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14324	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471625.007068052 2014-02-03 23:53:45  23:53:45 up 5 days,  8:05,  3 users,  load average: 3.44, 2.90, 1.62
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14328	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14329	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471630.005740522 2014-02-03 23:53:50  23:53:50 up 5 days,  8:05,  3 users,  load average: 3.49, 2.92, 1.63
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14330	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14331	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471635.013808555 2014-02-03 23:53:55  23:53:55 up 5 days,  8:05,  3 users,  load average: 3.45, 2.92, 1.64
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14333	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14334	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14335	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471640.007062372 2014-02-03 23:54:00  23:54:00 up 5 days,  8:05,  3 users,  load average: 3.41, 2.92, 1.64
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14337	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14338	root	localhost	NULL	Query	0	end	select @@version_comment limit 1	0.000
+TS 1391471645.011087123 2014-02-03 23:54:05  23:54:05 up 5 days,  8:06,  3 users,  load average: 3.46, 2.94, 1.66
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14341	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471650.011070686 2014-02-03 23:54:10  23:54:10 up 5 days,  8:06,  3 users,  load average: 3.58, 2.97, 1.67
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	statistics	SELECT c FROM sbtest5 WHERE id=519304	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14343	root	localhost	NULL	Query	0	updating status	SHOW GLOBAL STATUS	0.000
+14344	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471655.015024292 2014-02-03 23:54:15  23:54:15 up 5 days,  8:06,  3 users,  load average: 3.61, 2.99, 1.69
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14345	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471660.007163480 2014-02-03 23:54:20  23:54:20 up 5 days,  8:06,  3 users,  load average: 3.56, 2.99, 1.69
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14348	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14349	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+TS 1391471665.006215312 2014-02-03 23:54:25  23:54:25 up 5 days,  8:06,  3 users,  load average: 3.52, 2.99, 1.70
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	Writing to net	UPDATE sbtest3 SET k=k+1 WHERE id=394318	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	Writing to net	SELECT DISTINCT c FROM sbtest4 WHERE id BETWEEN 889454 AND 889454+99 ORDER BY c	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14353	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471670.013499048 2014-02-03 23:54:30  23:54:30 up 5 days,  8:06,  3 users,  load average: 3.56, 3.00, 1.71
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14354	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14355	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471675.016691105 2014-02-03 23:54:35  23:54:35 up 5 days,  8:06,  3 users,  load average: 3.43, 2.99, 1.71
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14357	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14358	root	localhost	NULL	Sleep	0		NULL	0.000
+14359	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471680.010134319 2014-02-03 23:54:40  23:54:40 up 5 days,  8:06,  3 users,  load average: 3.56, 3.02, 1.73
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14360	root	localhost	NULL	Sleep	0		NULL	0.000
+14361	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14362	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471685.012620070 2014-02-03 23:54:45  23:54:45 up 5 days,  8:06,  3 users,  load average: 3.59, 3.04, 1.74
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14363	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471690.011025733 2014-02-03 23:54:50  23:54:50 up 5 days,  8:06,  3 users,  load average: 3.71, 3.07, 1.76
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14366	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471695.017074306 2014-02-03 23:54:55  23:54:55 up 5 days,  8:06,  3 users,  load average: 3.89, 3.12, 1.78
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14369	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14370	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14371	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471700.006709622 2014-02-03 23:55:00  23:55:00 up 5 days,  8:06,  3 users,  load average: 3.82, 3.11, 1.79
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14372	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14373	root	localhost	NULL	Sleep	0		NULL	0.000
+14374	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+TS 1391471705.012539780 2014-02-03 23:55:05  23:55:05 up 5 days,  8:07,  3 users,  load average: 3.75, 3.11, 1.79
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14376	root	localhost	NULL	Sleep	0		NULL	0.000
+14377	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471710.010118286 2014-02-03 23:55:10  23:55:10 up 5 days,  8:07,  3 users,  load average: 3.85, 3.14, 1.81
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14378	root	localhost	NULL	Sleep	0		NULL	0.000
+14379	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14380	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471715.016921723 2014-02-03 23:55:15  23:55:15 up 5 days,  8:07,  3 users,  load average: 3.78, 3.14, 1.82
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14383	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471720.010123123 2014-02-03 23:55:20  23:55:20 up 5 days,  8:07,  3 users,  load average: 3.72, 3.14, 1.82
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14384	root	localhost	NULL	Sleep	0		NULL	0.000
+14385	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14386	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471725.005910653 2014-02-03 23:55:25  23:55:25 up 5 days,  8:07,  3 users,  load average: 3.74, 3.15, 1.84
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14387	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14388	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471730.011990053 2014-02-03 23:55:30  23:55:30 up 5 days,  8:07,  3 users,  load average: 3.68, 3.15, 1.84
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14390	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14391	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14392	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471735.007099746 2014-02-03 23:55:35  23:55:35 up 5 days,  8:07,  3 users,  load average: 3.63, 3.15, 1.85
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14393	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471740.007422734 2014-02-03 23:55:40  23:55:40 up 5 days,  8:07,  3 users,  load average: 3.58, 3.14, 1.85
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14396	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14397	root	localhost	NULL	Sleep	0		NULL	0.000
+14398	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471745.018880008 2014-02-03 23:55:45  23:55:45 up 5 days,  8:07,  3 users,  load average: 3.77, 3.19, 1.87
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14399	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14400	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14401	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471750.007141442 2014-02-03 23:55:50  23:55:50 up 5 days,  8:07,  3 users,  load average: 3.79, 3.20, 1.89
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14402	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14403	root	localhost	NULL	Sleep	0		NULL	0.000
+14404	root	localhost	NULL	Connect	NULL	login	NULL	0.000
+TS 1391471755.015485703 2014-02-03 23:55:55  23:55:55 up 5 days,  8:07,  3 users,  load average: 3.73, 3.20, 1.89
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14405	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471760.005938094 2014-02-03 23:56:00  23:56:00 up 5 days,  8:07,  3 users,  load average: 3.83, 3.23, 1.91
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14410	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471765.006051345 2014-02-03 23:56:05  23:56:05 up 5 days,  8:08,  3 users,  load average: 3.76, 3.23, 1.91
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14413	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471770.006253231 2014-02-03 23:56:10  23:56:10 up 5 days,  8:08,  3 users,  load average: 3.86, 3.26, 1.93
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14414	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14415	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14416	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471775.006296167 2014-02-03 23:56:15  23:56:15 up 5 days,  8:08,  3 users,  load average: 3.79, 3.25, 1.94
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14417	root	localhost	NULL	Sleep	0		NULL	0.000
+14418	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14419	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471780.006153083 2014-02-03 23:56:20  23:56:20 up 5 days,  8:08,  3 users,  load average: 3.73, 3.25, 1.94
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Sleep	0		NULL	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Sleep	0		NULL	0.000
+14296	root	localhost	sbtest	Sleep	0		NULL	0.000
+14420	root	localhost	NULL	Query	0	removing tmp table	SHOW GLOBAL STATUS	0.000
+14421	root	localhost	NULL	Sleep	0		NULL	0.000
+14422	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471785.011147645 2014-02-03 23:56:25  23:56:25 up 5 days,  8:08,  3 users,  load average: 3.83, 3.28, 1.96
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14423	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471790.005837140 2014-02-03 23:56:30  23:56:30 up 5 days,  8:08,  3 users,  load average: 3.84, 3.29, 1.97
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14426	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14427	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471795.006917708 2014-02-03 23:56:35  23:56:35 up 5 days,  8:08,  3 users,  load average: 3.77, 3.28, 1.97
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14429	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14431	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471800.007337525 2014-02-03 23:56:40  23:56:40 up 5 days,  8:08,  3 users,  load average: 3.71, 3.28, 1.98
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14432	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14434	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471805.012001598 2014-02-03 23:56:45  23:56:45 up 5 days,  8:08,  3 users,  load average: 3.66, 3.27, 1.98
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14435	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471810.007318114 2014-02-03 23:56:50  23:56:50 up 5 days,  8:08,  3 users,  load average: 3.60, 3.27, 1.99
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14439	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14440	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471815.007135963 2014-02-03 23:56:55  23:56:55 up 5 days,  8:08,  3 users,  load average: 3.55, 3.26, 2.00
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14443	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471820.007166265 2014-02-03 23:57:00  23:57:00 up 5 days,  8:08,  3 users,  load average: 3.51, 3.26, 2.00
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14444	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14445	root	localhost	NULL	Sleep	0		NULL	0.000
+14446	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471825.007269308 2014-02-03 23:57:05  23:57:05 up 5 days,  8:09,  3 users,  load average: 3.47, 3.26, 2.01
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14447	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471830.011219532 2014-02-03 23:57:10  23:57:10 up 5 days,  8:09,  3 users,  load average: 3.51, 3.27, 2.02
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Sleep	0		NULL	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14451	root	localhost	NULL	Sleep	0		NULL	0.000
+14452	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471835.014159715 2014-02-03 23:57:15  23:57:15 up 5 days,  8:09,  3 users,  load average: 3.63, 3.30, 2.03
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14453	root	localhost	NULL	Sleep	0		NULL	0.000
+14454	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471840.007438051 2014-02-03 23:57:20  23:57:20 up 5 days,  8:09,  3 users,  load average: 3.58, 3.29, 2.04
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14456	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14457	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471845.036171651 2014-02-03 23:57:25  23:57:25 up 5 days,  8:09,  3 users,  load average: 3.53, 3.29, 2.04
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14460	root	localhost	NULL	Connect	NULL	login	NULL	0.000
+14461	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471850.010801938 2014-02-03 23:57:30  23:57:30 up 5 days,  8:09,  3 users,  load average: 3.73, 3.33, 2.06
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14462	root	localhost	NULL	Sleep	0		NULL	0.000
+14463	root	localhost	NULL	Sleep	0		NULL	0.000
+14464	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471855.011723800 2014-02-03 23:57:35  23:57:35 up 5 days,  8:09,  3 users,  load average: 3.75, 3.34, 2.07
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14466	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14467	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471860.005947911 2014-02-03 23:57:40  23:57:40 up 5 days,  8:09,  3 users,  load average: 3.85, 3.37, 2.09
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	Creating tmp table	SELECT DISTINCT c FROM sbtest4 WHERE id BETWEEN 399690 AND 399690+99 ORDER BY c	0.000
+14295	root	localhost	sbtest	Query	0	NULL	SELECT DISTINCT c FROM sbtest3 WHERE id BETWEEN 294441 AND 294441+99 ORDER BY c	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14469	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14470	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471865.007824898 2014-02-03 23:57:45  23:57:45 up 5 days,  8:09,  3 users,  load average: 3.86, 3.38, 2.10
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14472	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14473	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471870.005953057 2014-02-03 23:57:50  23:57:50 up 5 days,  8:09,  3 users,  load average: 3.79, 3.37, 2.10
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14474	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471875.005967221 2014-02-03 23:57:55  23:57:55 up 5 days,  8:09,  3 users,  load average: 3.81, 3.38, 2.11
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14478	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14479	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471880.007375751 2014-02-03 23:58:00  23:58:00 up 5 days,  8:09,  3 users,  load average: 3.74, 3.38, 2.12
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14480	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471885.005809980 2014-02-03 23:58:05  23:58:05 up 5 days,  8:10,  3 users,  load average: 3.68, 3.37, 2.12
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Sleep	0		NULL	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14484	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14485	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471890.005815462 2014-02-03 23:58:10  23:58:10 up 5 days,  8:10,  3 users,  load average: 3.63, 3.36, 2.13
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14486	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14488	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471895.007192101 2014-02-03 23:58:15  23:58:15 up 5 days,  8:10,  3 users,  load average: 3.58, 3.36, 2.13
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14489	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14490	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471900.005130216 2014-02-03 23:58:20  23:58:20 up 5 days,  8:10,  3 users,  load average: 3.53, 3.35, 2.13
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14492	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471905.016194887 2014-02-03 23:58:25  23:58:25 up 5 days,  8:10,  3 users,  load average: 3.49, 3.34, 2.14
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14496	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14497	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471910.006502826 2014-02-03 23:58:30  23:58:30 up 5 days,  8:10,  3 users,  load average: 3.45, 3.34, 2.14
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14498	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+14499	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471915.009536754 2014-02-03 23:58:35  23:58:35 up 5 days,  8:10,  3 users,  load average: 3.57, 3.37, 2.16
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14501	root	localhost	NULL	Query	0	removing tmp table	SHOW GLOBAL STATUS	0.000
+14502	root	localhost	NULL	Sleep	0		NULL	0.000
+14503	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471920.009077730 2014-02-03 23:58:40  23:58:40 up 5 days,  8:10,  3 users,  load average: 3.53, 3.36, 2.16
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14504	root	localhost	NULL	Sleep	0		NULL	0.000
+14505	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471925.010817727 2014-02-03 23:58:45  23:58:45 up 5 days,  8:10,  3 users,  load average: 3.48, 3.35, 2.17
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14507	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14508	root	localhost	NULL	Sleep	0		NULL	0.000
+14509	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471930.014788185 2014-02-03 23:58:50  23:58:50 up 5 days,  8:10,  3 users,  load average: 3.45, 3.35, 2.17
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14510	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14511	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+14512	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471935.006141837 2014-02-03 23:58:55  23:58:55 up 5 days,  8:10,  3 users,  load average: 3.57, 3.37, 2.19
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14513	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14514	root	localhost	NULL	Sleep	0		NULL	0.000
+14515	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471940.008067937 2014-02-03 23:59:00  23:59:00 up 5 days,  8:10,  3 users,  load average: 3.44, 3.35, 2.18
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14516	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14517	root	localhost	NULL	Sleep	0		NULL	0.000
+14518	root	localhost	NULL	Sleep	0		NULL	0.000
+TS 1391471945.005892540 2014-02-03 23:59:05  23:59:05 up 5 days,  8:11,  3 users,  load average: 3.41, 3.35, 2.19
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14521	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471950.004700942 2014-02-03 23:59:10  23:59:10 up 5 days,  8:11,  3 users,  load average: 3.38, 3.34, 2.19
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14522	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14523	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14524	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471955.007428848 2014-02-03 23:59:15  23:59:15 up 5 days,  8:11,  3 users,  load average: 3.51, 3.37, 2.21
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14525	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471960.005788379 2014-02-03 23:59:20  23:59:20 up 5 days,  8:11,  3 users,  load average: 3.46, 3.36, 2.21
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14528	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14529	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+14530	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471965.009390325 2014-02-03 23:59:25  23:59:25 up 5 days,  8:11,  3 users,  load average: 3.43, 3.35, 2.22
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14531	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471970.013245208 2014-02-03 23:59:30  23:59:30 up 5 days,  8:11,  3 users,  load average: 3.63, 3.40, 2.24
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14535	root	localhost	NULL	Query	0	NULL	SHOW ENGINE INNODB STATUS	0.000
+14536	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471975.006688618 2014-02-03 23:59:35  23:59:35 up 5 days,  8:11,  3 users,  load average: 3.74, 3.42, 2.25
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14537	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471980.006108797 2014-02-03 23:59:40  23:59:40 up 5 days,  8:11,  3 users,  load average: 3.84, 3.45, 2.26
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14541	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+14542	unauthenticated user	localhost	NULL	Connect	NULL	Reading from net	NULL	0.000
+TS 1391471985.007644602 2014-02-03 23:59:45  23:59:45 up 5 days,  8:11,  3 users,  load average: 3.77, 3.44, 2.27
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14543	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471990.007220615 2014-02-03 23:59:50  23:59:50 up 5 days,  8:11,  3 users,  load average: 3.87, 3.47, 2.28
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	1	NULL	COMMIT	0.000
+14546	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391471995.005732664 2014-02-03 23:59:55  23:59:55 up 5 days,  8:11,  3 users,  load average: 3.96, 3.49, 2.30
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14550	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
+TS 1391472000.024715698 2014-02-04 00:00:00  00:00:00 up 5 days,  8:11,  3 users,  load average: 3.97, 3.50, 2.31
+Id	User	Host	db	Command	Time	State	Info	Progress
+14293	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14294	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14295	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14296	root	localhost	sbtest	Query	0	NULL	COMMIT	0.000
+14552	root	localhost	NULL	Query	0	NULL	SHOW FULL PROCESSLIST	0.000
